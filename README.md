@@ -96,7 +96,13 @@ MIT License
 
 # 👥 Contributions
 
- 
+ 👨‍💻SRUSHTI
+
+ 👨‍💻RIYA PRASAD
+
+ 👨‍💻AYESHA TANVEER
+
+ 👨‍💻 NEHA T
 
 
 VisageID is ideal for projects involving surveillance, attendance systems, smart door locks, and any real-time facial recognition applications where local privacy and control matter.
