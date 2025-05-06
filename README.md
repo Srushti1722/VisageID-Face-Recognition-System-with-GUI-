@@ -15,60 +15,84 @@ Make sure to :
 
 3)Than try Recognize the face.
 
-**For more accuracy capture more images 
+**For more accuracy capture more images **
 
 
-🎥Register their face with ID and Name 
+# 🎥Register their face with ID and Name 
+
 🧬 Train a model using LBPH (Local Binary Pattern Histogram) 
+
 🔍Recognize faces in real time via webcam 
+
 🗂 Manage user data through a local SQLite database 
+
 📁 Organize known and unknown images with auto-sorting 
+
 🖥️ Interact through a clean, user-friendly GUI built using Tkinter and CustomTkinter 
+
 📦 Maintain modularity with a well-structured trainer and dataset pipeline
 
-🚀 Features 
+
+# 🚀 Features 
+
 👤 User Registration with ID & Name 
+
 📸 Image capture (100 samples per user) 
+
 🧠 Model training with LBPH algorithm 
+
 🎥 Real-time face detection and recognition 
+
 🖥️ Easy-to-use GUI with CustomTkinter
 
-📦 Tech Stack
+# 📦 Tech Stack
 
 +Python
+
 +OpenCV
+
 +SQLite
+
 +Tkinter / CustomTkinter
+
 +NumPy
+
 +Pandas
 
 
-🖼️ Screenshots
+# 🖼️ Screenshots
 
 ![image](https://github.com/user-attachments/assets/e9b37221-3ac9-4cd5-a908-04934cc3bf87)
 
-🔧 How to Run
+# 🔧 How to Run
 
 Clone the repository
+
 git clone https://github.com/yourusername/face-recognition-gui.git cd face-recognition-gui
 
 Install dependencies
+
 pip install -r requirements.txt
 
 Run the system
+
 you can directly run by slicking on the run button on vscode
 
 
-🛡️ Security 
+# 🛡️ Security 
 Note This system is built for educational purposes and local use only. It does not support encryption or advanced security protocols. Don’t use it in production environments without necessary improvements.
 
-📚 Acknowledgements
+# 📚 Acknowledgements
 
 OpenCV 
+
 CustomTkinter 
+
 Python community
 
-📜 License 
+# 📜 License 
+
 MIT License
+
 
 VisageID is ideal for projects involving surveillance, attendance systems, smart door locks, and any real-time facial recognition applications where local privacy and control matter.
