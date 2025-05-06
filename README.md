@@ -15,7 +15,7 @@ Make sure to :
 
 3)Than try Recognize the face.
 
-# For more accuracy capture more images 
+**For more accuracy capture more images 
 
 
 🎥Register their face with ID and Name 
