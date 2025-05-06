@@ -94,8 +94,9 @@ Python community
 
 MIT License
 
-# Contributions
+# 👥 Contributions
 
+ 
 
 
 VisageID is ideal for projects involving surveillance, attendance systems, smart door locks, and any real-time facial recognition applications where local privacy and control matter.
