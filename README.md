@@ -1,16 +1,21 @@
 
 # VisageID-Face-Recognition-System-with-GUI-
 
-VisageID is a video-based, dynamic face recognition system with an intuitive graphical interface, designed for seamless identity verification and facial database management. :
+VisageID is a video-based, dynamic face recognition system with an intuitive graphical interface, designed for seamless identity verification and facial database management. 
+
 A complete face recognition system built using Python, OpenCV, and SQLite with a modern GUI built in Tkinter/CustomTkinter. 
 
 
-#Main steps
+# Main steps
 Make sure to :
+
 1)first capture the image 
+
 2)train the model
+
 3)Than try Recognize the face.
-#For more accuracy capture more images #
+
+# For more accuracy capture more images 
 
 
 🎥Register their face with ID and Name 
